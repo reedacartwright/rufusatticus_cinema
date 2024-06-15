@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Cinematic Camera Effects",
+    "name": "Cinematic Camera Effects",
+    "uuid":"72489993-8658-4a68-b8a9-006acf23067e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "Cinematic Camera Effects Behavior Pack",
+        "type": "data",
+        "uuid": "058246f4-ffe3-4302-96d7-b3163ec764d7",
+        "version": [1, 0, 0]
+      }
+    ]
+}
